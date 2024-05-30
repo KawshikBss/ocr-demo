@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ocr-demo/static/css/main.0b7d8211.css",
+    "main.js": "/ocr-demo/static/js/main.768e8ac0.js",
+    "static/js/453.4a07a4f1.chunk.js": "/ocr-demo/static/js/453.4a07a4f1.chunk.js",
+    "static/media/logo.svg": "/ocr-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ocr-demo/index.html",
+    "main.0b7d8211.css.map": "/ocr-demo/static/css/main.0b7d8211.css.map",
+    "main.768e8ac0.js.map": "/ocr-demo/static/js/main.768e8ac0.js.map",
+    "453.4a07a4f1.chunk.js.map": "/ocr-demo/static/js/453.4a07a4f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b7d8211.css",
+    "static/js/main.768e8ac0.js"
+  ]
+}
